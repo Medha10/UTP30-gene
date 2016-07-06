@@ -1,4 +1,4 @@
-# UTP30-gene
+# UTP30
 UTP30 is involved with production of 18s RNA and
 it is a U Three Protein.
 Helps with the small assembly of small ribsomal subunit.
