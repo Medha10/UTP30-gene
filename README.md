@@ -6,3 +6,4 @@ Also UTP30 is nvolved in rRNA processing which generates mature RNA which can be
 Finally it participates in biosynthesis.
 I put UTP30's coding sequence into NCBI blast with the entire nucleitide collection and there were many other coding sequences who shared a 100% match with UTP30. 
 There was no similar match of UTP30 to coding sequences against the human genome.  
+hello!
